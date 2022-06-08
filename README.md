@@ -1,3 +1,7 @@
+
+![tech](https://user-images.githubusercontent.com/107105040/172570267-d82771ea-da9c-4859-8ac5-870a748a029f.gif)
+
+
 Hey, I'm Arisha! 👋
 
 I'm a Computer Science Student, working towards being a Front End Developer.
